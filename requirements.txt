@@ -17,7 +17,6 @@ websockets==9.1
 yt-dlp==2023.03.04
 motor
 aiohttp==3.8.2
-pytz
+pytz==2023.10
 umongo==3.1.0
 speedtest-cli
-aiohttp==3.8.1
