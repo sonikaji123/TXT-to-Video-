@@ -30,8 +30,8 @@ os.makedirs("./downloads", exist_ok=True)
 API_ID = ""
 API_HASH = ""
 BOT_TOKEN = ""
-AUTH_USERS = ""
-sudo_users = []
+AUTH_USERS = "5409975736"
+sudo_users = [5409975736]
 bot = Client(
     "bot",
     bot_token=BOT_TOKEN,
